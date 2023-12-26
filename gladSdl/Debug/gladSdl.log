@@ -1,0 +1,13 @@
+﻿  gl.c
+  klpa.cpp
+E:\VS\gladSDLbegin\2\gladSdl\gladSdl\klpa.cpp(583,32): warning C4244: 'initializing': conversion from 'Uint32' to 'float', possible loss of data
+E:\VS\gladSDLbegin\2\gladSdl\gladSdl\klpa.cpp(718,27): warning C4244: 'initializing': conversion from 'Sint32' to 'float', possible loss of data
+E:\VS\gladSDLbegin\2\gladSdl\gladSdl\klpa.cpp(719,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\VS\gladSDLbegin\2\gladSdl\gladSdl\klpa.cpp(730,50): warning C4244: 'argument': conversion from 'Sint32' to 'float', possible loss of data
+E:\VS\gladSDLbegin\2\gladSdl\gladSdl\klpa.cpp(738,30): warning C4244: '=': conversion from 'Sint32' to 'float', possible loss of data
+E:\VS\gladSDLbegin\2\gladSdl\gladSdl\klpa.cpp(739,30): warning C4244: '=': conversion from 'Sint32' to 'float', possible loss of data
+E:\VS\gladSDLbegin\2\gladSdl\gladSdl\klpa.cpp(746,26): warning C4244: '=': conversion from 'Sint32' to 'float', possible loss of data
+E:\VS\gladSDLbegin\2\gladSdl\gladSdl\klpa.cpp(747,26): warning C4244: '=': conversion from 'Sint32' to 'float', possible loss of data
+  Transform.cpp
+  Generating Code...
+  gladSdl.vcxproj -> E:\VS\gladSDLbegin\2\gladSdl\Debug\gladSdl.exe
